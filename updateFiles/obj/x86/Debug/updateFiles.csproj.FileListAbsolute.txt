@@ -1,0 +1,63 @@
+E:\Mayur\mysql learning\updateFiles\updateFiles\bin\Debug\updateFiles.exe
+E:\Mayur\mysql learning\updateFiles\updateFiles\bin\Debug\updateFiles.pdb
+E:\Mayur\mysql learning\updateFiles\updateFiles\obj\x86\Debug\updateFiles.Form1.resources
+E:\Mayur\mysql learning\updateFiles\updateFiles\obj\x86\Debug\updateFiles.Properties.Resources.resources
+E:\Mayur\mysql learning\updateFiles\updateFiles\obj\x86\Debug\updateFiles.csproj.GenerateResource.Cache
+E:\Mayur\mysql learning\updateFiles\updateFiles\obj\x86\Debug\updateFiles.exe
+E:\Mayur\mysql learning\updateFiles\updateFiles\obj\x86\Debug\updateFiles.pdb
+E:\Mayur\mysql learning\updateFiles\updateFiles\bin\Debug\updateFiles.exe.config
+E:\Mayur\mysql learning\updateFiles\updateFiles\obj\x86\Debug\updateFiles.csprojResolveAssemblyReference.cache
+E:\Mayur\programming\nseindia\$CODE SOFTWARES$\12 updateFiles\updateFiles\bin\Debug\updateFiles.exe.config
+E:\Mayur\programming\nseindia\$CODE SOFTWARES$\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.exe
+E:\Mayur\programming\nseindia\$CODE SOFTWARES$\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.pdb
+E:\Mayur\programming\nseindia\$CODE SOFTWARES$\12 updateFiles\updateFiles\bin\Debug\updateFiles.exe
+E:\Mayur\programming\nseindia\$CODE SOFTWARES$\12 updateFiles\updateFiles\bin\Debug\updateFiles.pdb
+E:\Mayur\programming\nseindia\$CODE SOFTWARES$\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.csprojResolveAssemblyReference.cache
+E:\Mayur\programming\nseindia\$CODE SOFTWARES$\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.Form1.resources
+E:\Mayur\programming\nseindia\$CODE SOFTWARES$\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.Properties.Resources.resources
+E:\Mayur\programming\nseindia\$CODE SOFTWARES$\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.csproj.GenerateResource.Cache
+E:\ADMIN\programming\nseindia\$CODE SOFTWARES$\12 updateFiles\updateFiles\bin\Debug\updateFiles.exe.config
+E:\ADMIN\programming\nseindia\$CODE SOFTWARES$\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.exe
+E:\ADMIN\programming\nseindia\$CODE SOFTWARES$\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.pdb
+D:\30 jun 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\bin\Debug\updateFiles.exe.config
+D:\30 jun 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.exe
+D:\30 jun 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.pdb
+D:\30 jun 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\bin\Debug\updateFiles.exe
+D:\30 jun 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\bin\Debug\updateFiles.pdb
+D:\30 jun 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\30 jun 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.Form1.resources
+D:\30 jun 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.Properties.Resources.resources
+D:\30 jun 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\30 jun 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\riskengine\14-JULY- 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\bin\Debug\updateFiles.exe.config
+D:\riskengine\14-JULY- 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.exe
+D:\riskengine\14-JULY- 2014 ALGO\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.pdb
+D:\TradingSystem\SourceCode\WorkingCopy\12 updateFiles\12 updateFiles\updateFiles\bin\Debug\updateFiles.exe.config
+D:\TradingSystem\SourceCode\WorkingCopy\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.exe
+D:\TradingSystem\SourceCode\WorkingCopy\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.pdb
+D:\TradingSystem\SourceCode\WorkingCopy\12 updateFiles\12 updateFiles\updateFiles\bin\Debug\updateFiles.exe
+D:\TradingSystem\SourceCode\WorkingCopy\12 updateFiles\12 updateFiles\updateFiles\bin\Debug\updateFiles.pdb
+D:\TradingSystem\SourceCode\WorkingCopy\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.csprojResolveAssemblyReference.cache
+D:\TradingSystem\SourceCode\WorkingCopy\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.Form1.resources
+D:\TradingSystem\SourceCode\WorkingCopy\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.Properties.Resources.resources
+D:\TradingSystem\SourceCode\WorkingCopy\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.csproj.GenerateResource.Cache
+D:\TradingSystem\SourceCode\12 updateFiles\12 updateFiles\updateFiles\bin\Debug\updateFiles.exe.config
+D:\TradingSystem\SourceCode\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.exe
+D:\TradingSystem\SourceCode\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.pdb
+D:\TradingSystem\SourceCode\12 updateFiles\12 updateFiles\updateFiles\bin\Debug\updateFiles.exe
+D:\TradingSystem\SourceCode\12 updateFiles\12 updateFiles\updateFiles\bin\Debug\updateFiles.pdb
+D:\TradingSystem\SourceCode\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TradingSystem\SourceCode\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.Form1.resources
+D:\TradingSystem\SourceCode\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.Properties.Resources.resources
+D:\TradingSystem\SourceCode\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TradingSystem\SourceCode\12 updateFiles\12 updateFiles\updateFiles\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TradingSystem\12 updateFiles\updateFiles\bin\Debug\updateFiles.exe.config
+D:\TradingSystem\12 updateFiles\updateFiles\bin\Debug\updateFiles.exe
+D:\TradingSystem\12 updateFiles\updateFiles\bin\Debug\updateFiles.pdb
+D:\TradingSystem\12 updateFiles\updateFiles\bin\Debug\MySql.Data.dll
+D:\TradingSystem\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.csprojResolveAssemblyReference.cache
+D:\TradingSystem\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.Form1.resources
+D:\TradingSystem\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.Properties.Resources.resources
+D:\TradingSystem\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.csproj.GenerateResource.Cache
+D:\TradingSystem\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.exe
+D:\TradingSystem\12 updateFiles\updateFiles\obj\x86\Debug\updateFiles.pdb
